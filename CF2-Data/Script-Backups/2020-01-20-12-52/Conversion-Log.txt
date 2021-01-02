@@ -1,0 +1,13 @@
+Converting script [1 / 1]	[\CustomInputs.cs]
+	Fragments : 4
+		[ 0] : Line:   23	InputMethod   GetKey              	(KeyCode.W)
+		[ 1] : Line:   26	InputMethod   GetKey              	(KeyCode.S)
+		[ 2] : Line:   29	InputMethod   GetKey              	(KeyCode.A)
+		[ 3] : Line:   32	InputMethod   GetKey              	(KeyCode.D)
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [F:/M Qasim/Test Projects/Mosqito_Robot/CF2-Data/Script-Backups/2020-01-20-12-52\Assets-After/\CustomInputs.cs] to [F:/M Qasim/Test Projects/Mosqito_Robot/Assets/\CustomInputs.cs]
+
+Overwriting COMPLETED!

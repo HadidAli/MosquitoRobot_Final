@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 792a6a244b0e95d4ba8529eb9982a48a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Back Suspensions
+    100004: BackLight
+    100006: Front Suspensions
+    100008: Gun
+    100010: Left Antenna
+    100012: Left Fan
+    100014: Left Front Tyre
+    100016: Left Gun
+    100018: Left Missile
+    100020: Left Rear Tyre
+    100022: Left Wing
+    100024: Light Holder
+    100026: LL1
+    100028: LL2
+    100030: LL3
+    100032: Mech Robot
+    100034: Right Antenna
+    100036: Right Chain
+    100038: Right Fan
+    100040: Right Front Tyre
+    100042: Right Gun
+    100044: 'Right Missile '
+    100046: Right Rear Tyre
+    100048: Right Wing
+    100050: RL1
+    100052: RL2
+    100054: RL3
+    100056: Robo Mosquito
+    100058: Side Belts
+    100060: Upper Portion
+    400000: //RootNode
+    400002: Back Suspensions
+    400004: BackLight
+    400006: Front Suspensions
+    400008: Gun
+    400010: Left Antenna
+    400012: Left Fan
+    400014: Left Front Tyre
+    400016: Left Gun
+    400018: Left Missile
+    400020: Left Rear Tyre
+    400022: Left Wing
+    400024: Light Holder
+    400026: LL1
+    400028: LL2
+    400030: LL3
+    400032: Mech Robot
+    400034: Right Antenna
+    400036: Right Chain
+    400038: Right Fan
+    400040: Right Front Tyre
+    400042: Right Gun
+    400044: 'Right Missile '
+    400046: Right Rear Tyre
+    400048: Right Wing
+    400050: RL1
+    400052: RL2
+    400054: RL3
+    400056: Robo Mosquito
+    400058: Side Belts
+    400060: Upper Portion
+    2100000: Black Texture
+    2100002: Yellow Texture
+    2100004: Belt
+    2100006: 02 - Default
+    2100008: 03 - Default
+    2100010: 07 - Default
+    2300000: Back Suspensions
+    2300002: BackLight
+    2300004: Front Suspensions
+    2300006: Gun
+    2300008: Left Antenna
+    2300010: Left Fan
+    2300012: Left Front Tyre
+    2300014: Left Gun
+    2300016: Left Missile
+    2300018: Left Rear Tyre
+    2300020: Left Wing
+    2300022: Light Holder
+    2300024: LL1
+    2300026: LL2
+    2300028: LL3
+    2300030: Mech Robot
+    2300032: Right Antenna
+    2300034: Right Chain
+    2300036: Right Fan
+    2300038: Right Front Tyre
+    2300040: Right Gun
+    2300042: 'Right Missile '
+    2300044: Right Rear Tyre
+    2300046: Right Wing
+    2300048: RL1
+    2300050: RL2
+    2300052: RL3
+    2300054: Robo Mosquito
+    2300056: Side Belts
+    2300058: Upper Portion
+    3300000: Back Suspensions
+    3300002: BackLight
+    3300004: Front Suspensions
+    3300006: Gun
+    3300008: Left Antenna
+    3300010: Left Fan
+    3300012: Left Front Tyre
+    3300014: Left Gun
+    3300016: Left Missile
+    3300018: Left Rear Tyre
+    3300020: Left Wing
+    3300022: Light Holder
+    3300024: LL1
+    3300026: LL2
+    3300028: LL3
+    3300030: Mech Robot
+    3300032: Right Antenna
+    3300034: Right Chain
+    3300036: Right Fan
+    3300038: Right Front Tyre
+    3300040: Right Gun
+    3300042: 'Right Missile '
+    3300044: Right Rear Tyre
+    3300046: Right Wing
+    3300048: RL1
+    3300050: RL2
+    3300052: RL3
+    3300054: Robo Mosquito
+    3300056: Side Belts
+    3300058: Upper Portion
+    4300000: Mech Robot
+    4300002: Side Belts
+    4300004: Left Gun
+    4300006: Right Gun
+    4300008: Left Missile
+    4300010: Left Front Tyre
+    4300012: Left Rear Tyre
+    4300014: Right Front Tyre
+    4300016: Right Rear Tyre
+    4300018: Light Holder
+    4300020: BackLight
+    4300022: 'Right Missile '
+    4300024: Right Antenna
+    4300026: Left Antenna
+    4300028: Robo Mosquito
+    4300030: Right Wing
+    4300032: Left Wing
+    4300034: Left Fan
+    4300036: Right Fan
+    4300038: Gun
+    4300040: Front Suspensions
+    4300042: Back Suspensions
+    4300044: Upper Portion
+    4300046: Right Chain
+    4300048: LL1
+    4300050: LL2
+    4300052: LL3
+    4300054: RL1
+    4300056: RL2
+    4300058: RL3
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 363e7c8b35fda254887e41aff2e1fa42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 725e90a48f586654d934f79c67a5002b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 95a7217c9d5b39945a4ac5837f1ccdeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Belt
+    second: {fileID: 2100000, guid: cfdb24f1035f9af4093342ad2299ff40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Texture
+    second: {fileID: 2100000, guid: b1f685b5369978c42ab0c51bb47e24cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow Texture
+    second: {fileID: 2100000, guid: 725e90a48f586654d934f79c67a5002b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mech Robot
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.1979284, y: 1.1331336, z: -1.5281651}
+      rotation: {x: -0.00000018831395, y: 0.7071068, z: 0.7071068, w: 0.00000018831395}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: Side Belts
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: -0.30314606, y: 0.8854881, z: -1.574319}
+      rotation: {x: -0.00000018831395, y: 0.7071068, z: 0.7071068, w: 0.00000018831395}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: Left Gun
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 0.31971756, y: 4.0501165, z: -1.7370088}
+      rotation: {x: -0.00000018831395, y: 0.7071068, z: 0.7071068, w: 0.00000018831395}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: Right Gun
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 4.2273464, y: 4.0501165, z: -1.7370088}
+      rotation: {x: -0.00000018831395, y: 0.7071068, z: 0.7071068, w: 0.00000018831395}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: Left Missile
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: -0.21805541, y: 2.3250465, z: -1.6678463}
+      rotation: {x: -0.00000018831395, y: 0.7071068, z: 0.7071068, w: 0.00000018831395}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: Left Front Tyre
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: -0.55943114, y: 0.8676551, z: 0.13381013}
+      rotation: {x: -0.00000018831395, y: 0.7071068, z: 0.7071068, w: 0.00000018831395}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: Left Rear Tyre
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: -0.55943114, y: 0.8676551, z: -3.1733048}
+      rotation: {x: -0.00000018831395, y: 0.7071068, z: 0.7071068, w: 0.00000018831395}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: Right Front Tyre
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 4.97677, y: 0.8676551, z: 0.14668305}
+      rotation: {x: -0.7071068, y: -0.00000018831395, z: -0.00000018831395, w: 0.7071068}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: Right Rear Tyre
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 4.97677, y: 0.8676551, z: -3.1604247}
+      rotation: {x: -0.7071068, y: -0.00000018831395, z: -0.00000018831395, w: 0.7071068}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: Light Holder
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.2735465, y: 3.1685781, z: -2.8090045}
+      rotation: {x: -0.00000018831395, y: 0.7071068, z: 0.7071068, w: 0.00000018831395}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: BackLight
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.2735465, y: 3.1685781, z: -2.8090045}
+      rotation: {x: -0.00000018831395, y: 0.7071068, z: 0.7071068, w: 0.00000018831395}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: 'Right Missile '
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 4.699487, y: 2.3250465, z: -1.6678463}
+      rotation: {x: -0.00000018831395, y: 0.7071068, z: 0.7071068, w: 0.00000018831395}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: Right Antenna
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.9989536, y: 4.8604875, z: -0.56584287}
+      rotation: {x: -0.6154603, y: -0.24364983, z: 0.42366007, w: 0.6183491}
+      scale: {x: 3.842975, y: 3.8429763, z: 3.8429768}
+    - name: Left Antenna
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 1.5389673, y: 4.8604875, z: -0.56369215}
+      rotation: {x: -0.6933017, y: -0.33345413, z: 0.31114054, w: 0.55797195}
+      scale: {x: 3.8429763, y: 3.8429756, z: 3.842976}
+    - name: Robo Mosquito
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.2651596, y: 0.47839254, z: -0.75738555}
+      rotation: {x: 0.00000006657903, y: -0, z: -0, w: 1}
+      scale: {x: 0.09925411, y: 0.09925411, z: 0.09925411}
+    - name: Right Wing
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.264823, y: 0.4912484, z: -0.73714614}
+      rotation: {x: 0.00000006657903, y: -0, z: -0, w: 1}
+      scale: {x: 0.09925411, y: 0.09925411, z: 0.09925411}
+    - name: Left Wing
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.264823, y: 0.4912484, z: -0.73714614}
+      rotation: {x: 0.00000006657903, y: -0, z: -0, w: 1}
+      scale: {x: 0.09925411, y: 0.09925411, z: 0.09925411}
+    - name: Left Fan
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.230454, y: 0.48968577, z: -0.7305153}
+      rotation: {x: -0.5213338, y: -0.47771442, z: 0.47771442, w: 0.5213338}
+      scale: {x: 0.00091283646, y: 0.00091283687, z: 0.00091283646}
+    - name: Right Fan
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.2992084, y: 0.48967433, z: -0.7304971}
+      rotation: {x: 0.35356382, y: 0.61236644, z: 0.61236644, w: 0.35356382}
+      scale: {x: -0.00091283675, y: -0.00091283687, z: -0.00091283675}
+    - name: Gun
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.2652457, y: 0.4586969, z: -0.7053084}
+      rotation: {x: 0.50074714, y: 0.50074774, z: -0.4992512, w: 0.49925166}
+      scale: {x: 0.6219854, y: 0.6219854, z: 0.6219854}
+    - name: Front Suspensions
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.2735453, y: 0.8106932, z: 0.13152786}
+      rotation: {x: -0.00000018831395, y: 0.7071068, z: 0.7071068, w: 0.00000018831395}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: Back Suspensions
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.273243, y: 0.7904572, z: -3.257177}
+      rotation: {x: -0.00000018831395, y: 0.7071068, z: 0.7071068, w: 0.00000018831395}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: Upper Portion
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.2735465, y: 2.9705443, z: -0.76774323}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right Chain
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 4.8603425, y: 0.8854878, z: -1.5363756}
+      rotation: {x: -0.00000018831395, y: 0.7071068, z: 0.7071068, w: 0.00000018831395}
+      scale: {x: 0.105314784, y: 0.105314784, z: 0.105314784}
+    - name: LL1
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.246218, y: 0.47262606, z: -0.70287186}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.09925411, y: 0.09925411, z: 0.09925411}
+    - name: LL2
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.2438848, y: 0.47268173, z: -0.7176309}
+      rotation: {x: 0.00000006657903, y: -0, z: -0, w: 1}
+      scale: {x: 0.09925411, y: 0.09925411, z: 0.09925411}
+    - name: LL3
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.243283, y: 0.4704909, z: -0.73474514}
+      rotation: {x: 0.00000006657903, y: -0, z: -0, w: 1}
+      scale: {x: 0.09925411, y: 0.09925411, z: 0.09925411}
+    - name: RL1
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.2837093, y: 0.47316197, z: -0.70304763}
+      rotation: {x: 0.00000006657903, y: -0, z: -0, w: 1}
+      scale: {x: 0.09925411, y: 0.09925411, z: 0.09925411}
+    - name: RL2
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.286448, y: 0.47264582, z: -0.7176309}
+      rotation: {x: 0.00000006657903, y: -0, z: -0, w: 1}
+      scale: {x: 0.09925411, y: 0.09925411, z: 0.09925411}
+    - name: RL3
+      parentName: Animation Mech Robot To  Robot Mosquito With Textures(Clone)
+      position: {x: 2.2827237, y: 0.47253898, z: -0.73199874}
+      rotation: {x: 0.00000006657903, y: -0, z: -0, w: 1}
+      scale: {x: 0.09925411, y: 0.09925411, z: 0.09925411}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

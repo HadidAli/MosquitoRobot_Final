@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: ece50af5eb0c1a7489492a3440347da3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Gun
+    100002: L Propeller Body
+    100004: Left Fan
+    100006: Left Wing
+    100008: //RootNode
+    100010: R Propeller Body
+    100012: Right Fan
+    100014: Right Wing
+    100016: Robo Mosquito
+    400000: Gun
+    400002: L Propeller Body
+    400004: Left Fan
+    400006: Left Wing
+    400008: //RootNode
+    400010: R Propeller Body
+    400012: Right Fan
+    400014: Right Wing
+    400016: Robo Mosquito
+    2100000: 02 - Default
+    2100002: 03 - Default
+    2100004: 07 - Default
+    2300000: Gun
+    2300002: L Propeller Body
+    2300004: Left Fan
+    2300006: Left Wing
+    2300008: R Propeller Body
+    2300010: Right Fan
+    2300012: Right Wing
+    2300014: Robo Mosquito
+    3300000: Gun
+    3300002: L Propeller Body
+    3300004: Left Fan
+    3300006: Left Wing
+    3300008: R Propeller Body
+    3300010: Right Fan
+    3300012: Right Wing
+    3300014: Robo Mosquito
+    4300000: Robo Mosquito
+    4300002: Right Wing
+    4300004: Left Wing
+    4300006: Left Fan
+    4300008: Right Fan
+    4300010: Gun
+    4300012: R Propeller Body
+    4300014: L Propeller Body
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

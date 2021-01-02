@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 9cf13b2dbc75adb4baf930989b0fc026
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackLight
+    100002: Left Antenna
+    100004: Left Front Tyre
+    100006: Left Gun
+    100008: Left Missile
+    100010: Left Rear Tyre
+    100012: Light Holder
+    100014: Mech Robot
+    100016: //RootNode
+    100018: Right Antenna
+    100020: Right Front Tyre
+    100022: Right Gun
+    100024: 'Right Missile '
+    100026: Right Rear Tyre
+    100028: Side Belts
+    400000: BackLight
+    400002: Left Antenna
+    400004: Left Front Tyre
+    400006: Left Gun
+    400008: Left Missile
+    400010: Left Rear Tyre
+    400012: Light Holder
+    400014: Mech Robot
+    400016: //RootNode
+    400018: Right Antenna
+    400020: Right Front Tyre
+    400022: Right Gun
+    400024: 'Right Missile '
+    400026: Right Rear Tyre
+    400028: Side Belts
+    2100000: Yellow Texture
+    2100002: Black Texture
+    2100004: Belt
+    2300000: BackLight
+    2300002: Left Antenna
+    2300004: Left Front Tyre
+    2300006: Left Gun
+    2300008: Left Missile
+    2300010: Left Rear Tyre
+    2300012: Light Holder
+    2300014: Mech Robot
+    2300016: Right Antenna
+    2300018: Right Front Tyre
+    2300020: Right Gun
+    2300022: 'Right Missile '
+    2300024: Right Rear Tyre
+    2300026: Side Belts
+    3300000: BackLight
+    3300002: Left Antenna
+    3300004: Left Front Tyre
+    3300006: Left Gun
+    3300008: Left Missile
+    3300010: Left Rear Tyre
+    3300012: Light Holder
+    3300014: Mech Robot
+    3300016: Right Antenna
+    3300018: Right Front Tyre
+    3300020: Right Gun
+    3300022: 'Right Missile '
+    3300024: Right Rear Tyre
+    3300026: Side Belts
+    4300000: Mech Robot
+    4300002: Side Belts
+    4300004: Left Gun
+    4300006: Right Gun
+    4300008: Left Missile
+    4300010: Left Front Tyre
+    4300012: Left Rear Tyre
+    4300014: Right Front Tyre
+    4300016: Right Rear Tyre
+    4300018: Light Holder
+    4300020: BackLight
+    4300022: 'Right Missile '
+    4300024: Right Antenna
+    4300026: Left Antenna
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Belt
+    second: {fileID: 2100000, guid: cfdb24f1035f9af4093342ad2299ff40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Texture
+    second: {fileID: 2100000, guid: b1f685b5369978c42ab0c51bb47e24cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow Texture
+    second: {fileID: 2100000, guid: 23c0bc49ba22af54c999998378efccb6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

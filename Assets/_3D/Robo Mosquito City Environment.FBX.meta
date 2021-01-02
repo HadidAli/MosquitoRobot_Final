@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 6c44bc7a7db303042942451e8e4152ce
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Buildings
+    100002: Grassy Stone Plane
+    100004: Lane Dividers
+    100006: Main Asphalt Ground
+    100008: Pots
+    100010: Restaurants Chairs And Tables
+    100012: //RootNode
+    100014: Stone Wall
+    100016: Trees and Shrubs
+    400000: Buildings
+    400002: Grassy Stone Plane
+    400004: Lane Dividers
+    400006: Main Asphalt Ground
+    400008: Pots
+    400010: Restaurants Chairs And Tables
+    400012: //RootNode
+    400014: Stone Wall
+    400016: Trees and Shrubs
+    2100000: lambert8
+    2100002: palm_plant
+    2100004: lambert9
+    2100006: streetprops3
+    2100008: 02 - Default
+    2100010: 03 - Default
+    2100012: phong2
+    2100014: phong1
+    2100016: lambert4
+    2100018: lambert10
+    2100020: lambert14
+    2100022: lambert7
+    2100024: lambert11
+    2100026: lambert15
+    2100028: phong3
+    2100030: asphalt
+    2100032: skyscraper3
+    2100034: bcn_2
+    2100036: bcn_3
+    2100038: croatia
+    2100040: france
+    2100042: france2
+    2100044: barna_lp_2
+    2100046: barna_lp_1
+    2100048: barna_lp_6
+    2100050: barna2_lp2
+    2100052: barna2_lp1
+    2100054: barna2_lp3
+    2100056: barcelona_4_lod2
+    2100058: building_props_props
+    2100060: skyscraper1
+    2300000: Buildings
+    2300002: Grassy Stone Plane
+    2300004: Lane Dividers
+    2300006: Main Asphalt Ground
+    2300008: Pots
+    2300010: Restaurants Chairs And Tables
+    2300012: Stone Wall
+    2300014: Trees and Shrubs
+    3300000: Buildings
+    3300002: Grassy Stone Plane
+    3300004: Lane Dividers
+    3300006: Main Asphalt Ground
+    3300008: Pots
+    3300010: Restaurants Chairs And Tables
+    3300012: Stone Wall
+    3300014: Trees and Shrubs
+    4300000: Trees and Shrubs
+    4300002: Stone Wall
+    4300004: Restaurants Chairs And Tables
+    4300006: Pots
+    4300008: Grassy Stone Plane
+    4300010: Lane Dividers
+    4300012: Main Asphalt Ground
+    4300014: Buildings
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 79180fac7281ef043b2f93e357151dbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: f779e66f478e4bb45ba09e6864195b2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt
+    second: {fileID: 2100000, guid: 70a367ac257db6148a66bf0b9856ccae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barcelona_4_lod2
+    second: {fileID: 2100000, guid: 6cf47cc7e22d6874bab6952fc585a6e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barna2_lp1
+    second: {fileID: 2100000, guid: ac959792ee4d76245836e61c3ac6df01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barna2_lp2
+    second: {fileID: 2100000, guid: ac959792ee4d76245836e61c3ac6df01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barna2_lp3
+    second: {fileID: 2100000, guid: ac959792ee4d76245836e61c3ac6df01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barna_lp_1
+    second: {fileID: 2100000, guid: ac5df005e7c08bf468f1367d1c827454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barna_lp_2
+    second: {fileID: 2100000, guid: ac959792ee4d76245836e61c3ac6df01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barna_lp_6
+    second: {fileID: 2100000, guid: ac5df005e7c08bf468f1367d1c827454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bcn_2
+    second: {fileID: 2100000, guid: a0f059775268a424a8755191a9a055cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bcn_3
+    second: {fileID: 2100000, guid: 6092f065c30fe064b8c902f5dc2094ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building_props_props
+    second: {fileID: 2100000, guid: 60e03ad342d7d6f4da3370a4dcf5f5e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: croatia
+    second: {fileID: 2100000, guid: 324d2336f078a1449b83cafba3142f65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: france
+    second: {fileID: 2100000, guid: e7e2c3e26bd46964bbdda73d30f9f7d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: france2
+    second: {fileID: 2100000, guid: a7c38d2fff1bed04088f7cc4bc35517f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: e7e2c3e26bd46964bbdda73d30f9f7d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert11
+    second: {fileID: 2100000, guid: e3e89da7ba2db204cbee65e4cb83ed4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert14
+    second: {fileID: 2100000, guid: 1ebde0c0672793c439f1109200285443, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert15
+    second: {fileID: 2100000, guid: e3e89da7ba2db204cbee65e4cb83ed4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: b266a8b3b34989c4e836f7398c4656d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: e3e89da7ba2db204cbee65e4cb83ed4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: caddf7a4b2319f348ab979cc50d1b8a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: caddf7a4b2319f348ab979cc50d1b8a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palm_plant
+    second: {fileID: 2100000, guid: 1cc2907df002f2b4bb88354e822a83f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: d086b0e51ea92bd4e9956ee20c9d9cbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong2
+    second: {fileID: 2100000, guid: 24b966f96da79a34fb4f85c651036829, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong3
+    second: {fileID: 2100000, guid: 7ecef6045323af946b32cec037854a4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skyscraper1
+    second: {fileID: 2100000, guid: 5e3aa9044043fad4dac46418c9e217ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skyscraper3
+    second: {fileID: 2100000, guid: f5d5fe3c0c336bb45b502b230a108e7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: streetprops3
+    second: {fileID: 2100000, guid: b266a8b3b34989c4e836f7398c4656d3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

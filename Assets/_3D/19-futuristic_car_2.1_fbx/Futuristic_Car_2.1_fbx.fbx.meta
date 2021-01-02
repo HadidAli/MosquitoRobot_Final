@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: ebe84311ed14a7f4e879fd0f02eefa76
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back_Suspension_L
+    100002: Back_Suspension_R
+    100004: Back_Wheel_Force_1_L
+    100006: Back_Wheel_Force_1_R
+    100008: Back_Wheel_Mesh_1_L
+    100010: Back_Wheel_Mesh_1_R
+    100012: Car_Con_Box
+    100014: Car_Glas_Mesh
+    100016: Car_Mesh
+    100018: Front_Steering_Mesh_1_L
+    100020: Front_Steering_Mesh_2_R
+    100022: Front_Wheel_Force_1_L
+    100024: Front_Wheel_Force_1_R
+    100026: Front_Wheel_Mesh_1_R
+    100028: Front_Wheel_Mesh_2_L
+    100030: //RootNode
+    100032: Hemi
+    400000: Back_Suspension_L
+    400002: Back_Suspension_R
+    400004: Back_Wheel_Force_1_L
+    400006: Back_Wheel_Force_1_R
+    400008: Back_Wheel_Mesh_1_L
+    400010: Back_Wheel_Mesh_1_R
+    400012: Car_Con_Box
+    400014: Car_Glas_Mesh
+    400016: Car_Mesh
+    400018: Front_Steering_Mesh_1_L
+    400020: Front_Steering_Mesh_2_R
+    400022: Front_Wheel_Force_1_L
+    400024: Front_Wheel_Force_1_R
+    400026: Front_Wheel_Mesh_1_R
+    400028: Front_Wheel_Mesh_2_L
+    400030: //RootNode
+    400032: Hemi
+    2100000: box
+    2100002: Futuristic_Car.001
+    2100004: Futuristic_Car_glass.001
+    2100006: Futuristic_Car_black.001
+    2300000: Back_Suspension_L
+    2300002: Back_Suspension_R
+    2300004: Back_Wheel_Force_1_L
+    2300006: Back_Wheel_Force_1_R
+    2300008: Back_Wheel_Mesh_1_L
+    2300010: Back_Wheel_Mesh_1_R
+    2300012: Car_Con_Box
+    2300014: Car_Glas_Mesh
+    2300016: Car_Mesh
+    2300018: Front_Steering_Mesh_1_L
+    2300020: Front_Steering_Mesh_2_R
+    2300022: Front_Wheel_Force_1_L
+    2300024: Front_Wheel_Force_1_R
+    2300026: Front_Wheel_Mesh_1_R
+    2300028: Front_Wheel_Mesh_2_L
+    3300000: Back_Suspension_L
+    3300002: Back_Suspension_R
+    3300004: Back_Wheel_Force_1_L
+    3300006: Back_Wheel_Force_1_R
+    3300008: Back_Wheel_Mesh_1_L
+    3300010: Back_Wheel_Mesh_1_R
+    3300012: Car_Con_Box
+    3300014: Car_Glas_Mesh
+    3300016: Car_Mesh
+    3300018: Front_Steering_Mesh_1_L
+    3300020: Front_Steering_Mesh_2_R
+    3300022: Front_Wheel_Force_1_L
+    3300024: Front_Wheel_Force_1_R
+    3300026: Front_Wheel_Mesh_1_R
+    3300028: Front_Wheel_Mesh_2_L
+    4300000: Car_Con_Box
+    4300002: Back_Suspension_L
+    4300004: Back_Wheel_Force_1_L
+    4300006: Back_Wheel_Mesh_1_L
+    4300008: Back_Suspension_R
+    4300010: Back_Wheel_Force_1_R
+    4300012: Back_Wheel_Mesh_1_R
+    4300014: Car_Glas_Mesh
+    4300016: Car_Mesh
+    4300018: Front_Steering_Mesh_1_L
+    4300020: Front_Wheel_Force_1_L
+    4300022: Front_Wheel_Mesh_2_L
+    4300024: Front_Wheel_Mesh_1_R
+    4300026: Front_Wheel_Force_1_R
+    4300028: Front_Steering_Mesh_2_R
+    10800000: Hemi
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Futuristic_Car.001
+    second: {fileID: 2100000, guid: 3d6d0802e0abf5340a3be3291e861f12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Futuristic_Car_black.001
+    second: {fileID: 2100000, guid: 14b3321dbbbc72b4caeee6118cf72b3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Futuristic_Car_glass.001
+    second: {fileID: 2100000, guid: 20cc526da47c13745a85e6856c32c899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box
+    second: {fileID: 2100000, guid: 7b233fe609a564c4a9fb7e2531165655, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

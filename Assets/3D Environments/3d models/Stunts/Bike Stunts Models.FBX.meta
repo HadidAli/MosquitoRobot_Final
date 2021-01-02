@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 0181c0fc8142c2b41a77d941ea5d9af9
+timeCreated: 1523424356
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Blue
+    100004: Blue_ground
+    100006: 'curved '
+    100008: curved 006
+    100010: curved 007
+    100012: curved 008
+    100014: curved 009
+    100016: curved 01
+    100018: curved 010
+    100020: curved 011
+    100022: curved 012
+    100024: 'curved_side_object '
+    100026: curved_side_object 001
+    100028: curved_side_object 002
+    100030: curved_side_object 003
+    100032: curved_side_object 004
+    100034: curved_side_object 005
+    100036: curved_side_object 006
+    100038: curved_side_object 007
+    100040: curved_side_object 008
+    100042: curved_side_object 009
+    100044: 'cyan '
+    100046: cyan_ground
+    100048: 'Duck '
+    100050: Green
+    100052: Green_ground
+    100054: hut
+    100056: hut001
+    100058: hut002
+    100060: hut003
+    100062: hut004
+    100064: hut005
+    100066: hut006
+    100068: Light Blue
+    100070: 'Light Blue Ground '
+    100072: Line002
+    100074: Line003
+    100076: Magenta
+    100078: Magenta_ground
+    100080: 'Multi '
+    100082: 'Multi blue '
+    100084: 'Oranges '
+    100086: Oranges_ground
+    100088: 'Rabit '
+    100090: 'Rainbow panel '
+    100092: Rainbow panel 001
+    100094: 'Red '
+    100096: Red_ground
+    100098: slope 003
+    100100: slope 004
+    100102: slope 005
+    100104: slope 006
+    100106: Slope 1
+    100108: 'Strate panel '
+    100110: Strate panel 001
+    100112: Strate panel 002
+    100114: Strate panel 003
+    100116: Strate panel 004
+    100118: Strate panel 005
+    100120: Strate panel 006
+    100122: Strate panel 007
+    100124: Strate panel 008
+    100126: Strate panel 009
+    100128: Strate panel 010
+    100130: 'Strate pnel 02 '
+    100132: Strate pnel 02 001
+    100134: 'Yellow '
+    100136: Yellow  1
+    100138: Yellow 001
+    100140: Yellow 002
+    100142: Yellow 003
+    100144: Yellow 004
+    100146: Yellow_ground
+    400000: //RootNode
+    400002: Blue
+    400004: Blue_ground
+    400006: 'curved '
+    400008: curved 006
+    400010: curved 007
+    400012: curved 008
+    400014: curved 009
+    400016: curved 01
+    400018: curved 010
+    400020: curved 011
+    400022: curved 012
+    400024: 'curved_side_object '
+    400026: curved_side_object 001
+    400028: curved_side_object 002
+    400030: curved_side_object 003
+    400032: curved_side_object 004
+    400034: curved_side_object 005
+    400036: curved_side_object 006
+    400038: curved_side_object 007
+    400040: curved_side_object 008
+    400042: curved_side_object 009
+    400044: 'cyan '
+    400046: cyan_ground
+    400048: 'Duck '
+    400050: Green
+    400052: Green_ground
+    400054: hut
+    400056: hut001
+    400058: hut002
+    400060: hut003
+    400062: hut004
+    400064: hut005
+    400066: hut006
+    400068: Light Blue
+    400070: 'Light Blue Ground '
+    400072: Line002
+    400074: Line003
+    400076: Magenta
+    400078: Magenta_ground
+    400080: 'Multi '
+    400082: 'Multi blue '
+    400084: 'Oranges '
+    400086: Oranges_ground
+    400088: 'Rabit '
+    400090: 'Rainbow panel '
+    400092: Rainbow panel 001
+    400094: 'Red '
+    400096: Red_ground
+    400098: slope 003
+    400100: slope 004
+    400102: slope 005
+    400104: slope 006
+    400106: Slope 1
+    400108: 'Strate panel '
+    400110: Strate panel 001
+    400112: Strate panel 002
+    400114: Strate panel 003
+    400116: Strate panel 004
+    400118: Strate panel 005
+    400120: Strate panel 006
+    400122: Strate panel 007
+    400124: Strate panel 008
+    400126: Strate panel 009
+    400128: Strate panel 010
+    400130: 'Strate pnel 02 '
+    400132: Strate pnel 02 001
+    400134: 'Yellow '
+    400136: Yellow  1
+    400138: Yellow 001
+    400140: Yellow 002
+    400142: Yellow 003
+    400144: Yellow 004
+    400146: Yellow_ground
+    2300000: Blue
+    2300002: Blue_ground
+    2300004: 'curved '
+    2300006: curved 006
+    2300008: curved 007
+    2300010: curved 008
+    2300012: curved 009
+    2300014: curved 01
+    2300016: curved 010
+    2300018: curved 011
+    2300020: curved 012
+    2300022: 'curved_side_object '
+    2300024: curved_side_object 001
+    2300026: curved_side_object 002
+    2300028: curved_side_object 003
+    2300030: curved_side_object 004
+    2300032: curved_side_object 005
+    2300034: curved_side_object 006
+    2300036: curved_side_object 007
+    2300038: curved_side_object 008
+    2300040: curved_side_object 009
+    2300042: 'cyan '
+    2300044: cyan_ground
+    2300046: 'Duck '
+    2300048: Green
+    2300050: Green_ground
+    2300052: hut
+    2300054: hut001
+    2300056: hut002
+    2300058: hut003
+    2300060: hut004
+    2300062: hut005
+    2300064: hut006
+    2300066: Light Blue
+    2300068: 'Light Blue Ground '
+    2300070: Line002
+    2300072: Line003
+    2300074: Magenta
+    2300076: Magenta_ground
+    2300078: 'Multi '
+    2300080: 'Multi blue '
+    2300082: 'Oranges '
+    2300084: Oranges_ground
+    2300086: 'Rabit '
+    2300088: 'Rainbow panel '
+    2300090: Rainbow panel 001
+    2300092: 'Red '
+    2300094: Red_ground
+    2300096: slope 003
+    2300098: slope 004
+    2300100: slope 005
+    2300102: slope 006
+    2300104: Slope 1
+    2300106: 'Strate panel '
+    2300108: Strate panel 001
+    2300110: Strate panel 002
+    2300112: Strate panel 003
+    2300114: Strate panel 004
+    2300116: Strate panel 005
+    2300118: Strate panel 006
+    2300120: Strate panel 007
+    2300122: Strate panel 008
+    2300124: Strate panel 009
+    2300126: Strate panel 010
+    2300128: 'Strate pnel 02 '
+    2300130: Strate pnel 02 001
+    2300132: 'Yellow '
+    2300134: Yellow  1
+    2300136: Yellow 001
+    2300138: Yellow 002
+    2300140: Yellow 003
+    2300142: Yellow 004
+    2300144: Yellow_ground
+    3300000: Blue
+    3300002: Blue_ground
+    3300004: 'curved '
+    3300006: curved 006
+    3300008: curved 007
+    3300010: curved 008
+    3300012: curved 009
+    3300014: curved 01
+    3300016: curved 010
+    3300018: curved 011
+    3300020: curved 012
+    3300022: 'curved_side_object '
+    3300024: curved_side_object 001
+    3300026: curved_side_object 002
+    3300028: curved_side_object 003
+    3300030: curved_side_object 004
+    3300032: curved_side_object 005
+    3300034: curved_side_object 006
+    3300036: curved_side_object 007
+    3300038: curved_side_object 008
+    3300040: curved_side_object 009
+    3300042: 'cyan '
+    3300044: cyan_ground
+    3300046: 'Duck '
+    3300048: Green
+    3300050: Green_ground
+    3300052: hut
+    3300054: hut001
+    3300056: hut002
+    3300058: hut003
+    3300060: hut004
+    3300062: hut005
+    3300064: hut006
+    3300066: Light Blue
+    3300068: 'Light Blue Ground '
+    3300070: Line002
+    3300072: Line003
+    3300074: Magenta
+    3300076: Magenta_ground
+    3300078: 'Multi '
+    3300080: 'Multi blue '
+    3300082: 'Oranges '
+    3300084: Oranges_ground
+    3300086: 'Rabit '
+    3300088: 'Rainbow panel '
+    3300090: Rainbow panel 001
+    3300092: 'Red '
+    3300094: Red_ground
+    3300096: slope 003
+    3300098: slope 004
+    3300100: slope 005
+    3300102: slope 006
+    3300104: Slope 1
+    3300106: 'Strate panel '
+    3300108: Strate panel 001
+    3300110: Strate panel 002
+    3300112: Strate panel 003
+    3300114: Strate panel 004
+    3300116: Strate panel 005
+    3300118: Strate panel 006
+    3300120: Strate panel 007
+    3300122: Strate panel 008
+    3300124: Strate panel 009
+    3300126: Strate panel 010
+    3300128: 'Strate pnel 02 '
+    3300130: Strate pnel 02 001
+    3300132: 'Yellow '
+    3300134: Yellow  1
+    3300136: Yellow 001
+    3300138: Yellow 002
+    3300140: Yellow 003
+    3300142: Yellow 004
+    3300144: Yellow_ground
+    4300000: Slope 1
+    4300002: 'Yellow '
+    4300004: curved 01
+    4300006: curved 006
+    4300008: 'Strate pnel 02 '
+    4300010: 'Rainbow panel '
+    4300012: slope 003
+    4300014: slope 004
+    4300016: slope 005
+    4300018: slope 006
+    4300020: 'Strate panel '
+    4300022: hut
+    4300024: hut001
+    4300026: hut002
+    4300028: hut003
+    4300030: hut004
+    4300032: hut005
+    4300034: hut006
+    4300036: 'curved '
+    4300038: curved 007
+    4300040: curved 008
+    4300042: Line002
+    4300044: Line003
+    4300046: 'Oranges '
+    4300048: 'Yellow '
+    4300050: Blue
+    4300052: 'Red '
+    4300054: Magenta
+    4300056: Light Blue
+    4300058: 'cyan '
+    4300060: Green
+    4300062: Yellow 001
+    4300064: Yellow 002
+    4300066: Yellow 003
+    4300068: Yellow 004
+    4300070: Strate panel 001
+    4300072: Strate panel 002
+    4300074: Strate panel 003
+    4300076: Strate panel 004
+    4300078: Strate panel 005
+    4300080: 'curved_side_object '
+    4300082: curved_side_object 001
+    4300084: curved_side_object 002
+    4300086: curved_side_object 003
+    4300088: curved_side_object 004
+    4300090: curved_side_object 005
+    4300092: curved 009
+    4300094: curved_side_object 006
+    4300096: curved 010
+    4300098: curved_side_object 007
+    4300100: curved 011
+    4300102: curved_side_object 008
+    4300104: curved_side_object 009
+    4300106: Rainbow panel 001
+    4300108: Strate panel 006
+    4300110: Strate pnel 02 001
+    4300112: Strate panel 007
+    4300114: Strate panel 008
+    4300116: Strate panel 009
+    4300118: Strate panel 010
+    4300120: curved 012
+    4300122: 'Duck '
+    4300124: 'Rabit '
+    4300126: 'Multi '
+    4300128: 'Multi blue '
+    4300130: 'Light Blue Ground '
+    4300132: Green_ground
+    4300134: Magenta_ground
+    4300136: cyan_ground
+    4300138: Oranges_ground
+    4300140: Blue_ground
+    4300142: Yellow_ground
+    4300144: Red_ground
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
