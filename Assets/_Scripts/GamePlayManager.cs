@@ -407,6 +407,15 @@ public class GamePlayManager : MonoBehaviour
 
         //HealthkitPicked.text = GameManager.healthKitPicked.ToString();
     }
+    public void nextlevel()
+    {
+        Levels[Level_Number].SetActive(false);
+        Level_Number++;
+        Player_Robot.transform.GetChild(1).gameObject.SetActive(true);
+        LevelCompelte.SetActive(false);
+        OnLevelWasLoaded(Level_Number);
+       
+    }
 
 
   
